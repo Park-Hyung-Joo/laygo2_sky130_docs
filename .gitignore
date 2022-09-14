@@ -1,1 +1,4 @@
+#html build from sphinx
 _build
+#vscode setting files
+.vscode/

@@ -32,7 +32,7 @@ Your magic search path should include the following directories.
 * WORK_DIR/magic_layout/skywater130_microtemplates_dense
 * WORK_DIR/magic_layout/logic_generated
 
-.. image:: asset/img/search_path.jpg
+.. image:: asset/img/search_path.JPG
     :scale: 50
     :alt: search path test example
 
@@ -55,7 +55,7 @@ The profile directory is printed to the shell. (Example: WORK_DIR/.ipython/profi
 Overwrite the default 'ipython_config_init.py' to the config file in the repository.
 
 
-If PROFILE_DIR is not output, check if .ipython dir exists in WORK_DIR.
+If PROFILE_DIR is not output, or it dosen't contain WORK_DIR, check if .ipython dir exists in WORK_DIR.
 If so, PROFILE_DIR = WORK_DIR/.ipython/profile_default.
 
 .. image:: asset/img/ipython_path.JPG
