@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'laygo2-sky130-presentation'
+project = 'Open Source Analog IC Design'
 copyright = '2022, HyungJooPark'
 author = 'HyungJooPark'
 
